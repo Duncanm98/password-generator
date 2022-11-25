@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+    font-weight: 500;
+    color: white;
+    background-color: #1F2937;
+}
+span{
+    color: #4ADF86;
+}
+
+.generator-field{
+    background-color: #3B4F6B;
+    max-width: 450px;
+    padding: 20px 30px; 
+    margin: 20px auto;
+    height:80vh; 
+}
+
+hr{
+    border: 1px solid #2f3e53;
+    margin: 20px auto;
+}
+
+button{
+    background-color: #273549;
+    border:none;
+    border-radius: 6px;
+    color: #55F991;
+    padding: 4px 15px; 
+    min-width: 150px;
+    margin-right: 20px;
+}
+
+#generator{
+    padding: 9px 17px;
+    border: none;
+    border-radius: 6px;
+    background-color: #10B981;
+    color: #fff;
+    font-family: 'karla', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
